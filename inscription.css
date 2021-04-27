@@ -9,6 +9,7 @@
 }
 body{
     background-image:url(monimage.jpg) ;
+    background-size: cover;
 }
 .monform{
     margin-left: 1000px;
@@ -16,5 +17,9 @@ body{
 }
 p{
     height: 30px;
-
+    
+}
+a{
+    color: blue;
+    
 }
