@@ -23,3 +23,15 @@ a{
     color: blue;
     
 }
+table{
+    border: solid 1px blue;
+    height: 200px;
+    width: 500px;
+}
+tr{
+    border: solid 1px black;
+
+}
+td{
+    border: solid 1px black;
+}
