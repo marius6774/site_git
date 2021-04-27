@@ -17,9 +17,16 @@ body{
 }
 p{
     height: 30px;
-    
+    color: white;
+    font-size: medium;
 }
 a{
     color: blue;
     
+}
+.mondiv{
+    border: solid 1px black;
+    width: 700px;
+    height: 100px;
+    margin-top: -250px;
 }
