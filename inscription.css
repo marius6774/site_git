@@ -17,12 +17,14 @@ body{
 }
 p{
     height: 30px;
-    
+    color: white;
+    font-size: medium;
 }
 a{
     color: blue;
     
 }
+
 table{
     border: solid 1px blue;
     height: 200px;
@@ -34,4 +36,11 @@ tr{
 }
 td{
     border: solid 1px black;
+
+.mondiv{
+    border: solid 1px black;
+    width:700px;
+    height:100px;
+    margin-top:-250px;
+
 }
